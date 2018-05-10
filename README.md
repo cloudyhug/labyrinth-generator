@@ -10,11 +10,11 @@ The goal is to experiment image handling, without an API, therefore in a low lev
 
 ---
 
-## Dependencies
+### Dependencies
 
 - make
 - gcc
 
-## How to run
+### How to run it
 
 Run `make` to build the executable, then `bin/bmplabyrinth <filename> <height> <width>` to generate a labyrinth.
